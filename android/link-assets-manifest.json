@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/res/font/URWDIN-Bold.ttf",
+      "sha1": "e666dec1af1411765ddafa87d2ab6566f5b78444"
+    },
+    {
+      "path": "src/res/font/URWDIN-Regular.ttf",
+      "sha1": "cdf559e785b81f0888e652b41b2bd6b429ac9fea"
+    }
+  ]
+}
